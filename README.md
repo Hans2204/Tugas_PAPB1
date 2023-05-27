@@ -1,6 +1,6 @@
 # tugaspapb1
 
-A new Flutter project.
+Merupakan sebuah repositori untuk memenuhi tugas matakuliah PAPB
 
 ## Getting Started
 
